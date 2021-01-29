@@ -1,3 +1,7 @@
+
+Ce Repo contient quelques travail pratiques faits avec les principaux techniques de MAchine Learning comme Naive Bayes et Regression Logistique.
+Les travails ont été faits dans une cours de maîtrise de l'Université Laval pendant l'été 2020
+
 Paquets nécessaires à l'utilisation de Projet 2.ipynb :
 - keras
 - pandas
